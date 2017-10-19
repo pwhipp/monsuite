@@ -5,8 +5,10 @@ Welcome to monsuite's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   docs/outline
    docs/installation
    docs/documentation_pipeline
+   docs/research
 
 This documentation is a collection of `restructured text files`_ organized with `Sphinx`_. To work with the
 documentation, you ideally need a local installation and familiarity with:
