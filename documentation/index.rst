@@ -6,6 +6,7 @@ Welcome to monsuite's documentation!
    :caption: Contents:
 
    docs/installation
+   docs/documentation_pipeline
 
 This documentation is a collection of `restructured text files`_ organized with `Sphinx`_. To work with the
 documentation, you ideally need a local installation and familiarity with:
