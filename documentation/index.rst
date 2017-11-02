@@ -10,7 +10,9 @@ Welcome to monsuite's documentation!
    docs/documentation_pipeline
    docs/research
 
-This documentation is a collection of `restructured text files`_ organized with `Sphinx`_. To work with the
+This documentation is a collection of `restructured text files`_ organized with `Sphinx`_.
+
+While small documentation corrections and modifications may be made by selecting "Edit on GitHub", to work with the
 documentation, you ideally need a local installation and familiarity with:
 
  - `Git`_
