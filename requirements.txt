@@ -1,2 +1,5 @@
 Sphinx==1.6.4
 sphinx-rtd-theme==0.2.4
+livereload==2.5.1
+pyinotify==0.9.6
+
