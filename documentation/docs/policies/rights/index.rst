@@ -1,14 +1,14 @@
 Policies
 ========
 
-Respect! policies are concerned with the underlying principles and process of government.
-They are aimed at achieving our goals.
+Respect! policies are concerned with the process of government and are aimed at achieving our goals.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   rights/index
+   human_rights
+   social_rights
 
 This documentation is a collection of `restructured text files`_ organized with `Sphinx`_.
 

@@ -6,5 +6,5 @@ Any changes to the sphinx files will be automatically rebuilt and updated in a b
 """
 from livereload import Server, shell
 server = Server()
-server.watch('documentation/docs/*.rst', shell('make html', cwd='documentation'))
+server.watch('documentation/*.rst', shell('make html', cwd='documentation'))
 server.serve(port=5500, root='documentation/_build/html')

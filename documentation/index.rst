@@ -1,11 +1,15 @@
 Respect!
 ========
 
-We aim to carry out peaceful improvements to our government process that will:
+We believe that government should respect everyone's right to freedom and self determination in so far as
+it can be achieved without negating the equivalent rights in others.
 
-#. Eliminate the potential for political corruption.
+We aim to carry out peaceful improvement to our government process that will
+meet the following goals:
+
+#. Deliver self govenment that respects individuals and maximizes their freedom.
 #. Provide efficient stable democratic self government that respects minorities and individuals.
-#. Deliver self govenment that respects individuals and maximizes their freedoms subject
+#. Eliminate the potential for political corruption.
 
 .. toctree::
    :maxdepth: 2
