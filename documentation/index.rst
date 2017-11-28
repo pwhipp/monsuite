@@ -11,6 +11,12 @@ meet the following goals:
 #. Provide efficient stable democratic self government that respects minorities and individuals.
 #. Eliminate the potential for political corruption.
 
+We aim to deliver these improvements through the use and adoption of appropriate technology to support:
+
+#. A collectively maintained body of law and manifesto
+#. Effective use of experts and gathering of evidence in support of legal changes and improvements.
+#. Issue based voting
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
