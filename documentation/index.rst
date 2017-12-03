@@ -17,6 +17,8 @@ We aim to deliver these improvements through the use and adoption of appropriate
 #. Effective use of experts and gathering of evidence in support of legal changes and improvements.
 #. Issue based voting
 
+Of course, to start this we'll start with a game/application that allows a user to create a distributed organization.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
