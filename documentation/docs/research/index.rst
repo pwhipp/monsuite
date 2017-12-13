@@ -49,6 +49,13 @@ We probably do need a verifiable (interpreted?) language for the rule implementa
 
 The 'ledger' becomes a sorta redux store plus its reducers or a sorta git where the commit could be local and the push to the POT is where things become 'agreed'
 
+Using Git
+---------
+
+I create a repo that includes 'git hooks' as part of its code such that I can permit/prevent pushes.
+
+I can permit/control the pushes using consensus or ?hashgraph or...
+
 The model
 ---------
 
@@ -75,3 +82,9 @@ pop(list, index)
 .. code-block::
 
    {'ADD_REDUCER': put(state, key, get(state, key, value)
+
+Voting
+------
+
+Where humans are voting, a large number of options are unlikely to ever be considered reasonably.
+A good option is to randomly assign pairs for voting so a voter is presented with one or more pairs and simply asked which one they prefer. Perhaps allow 'equally good' (each scores 0.5) and equally bad (each scores 0).
