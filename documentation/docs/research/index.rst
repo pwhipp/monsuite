@@ -6,11 +6,15 @@ Research
    :caption: Contents:
 
    australian_political_parties
+   git
+   flux
    cryptocurrency/index
    hashgraph
 
 Mind Dump
 =========
+
+
 
 Decentralized Truth
 -------------------
@@ -79,7 +83,7 @@ remove(set, value)
 push(list, value, index)
 pop(list, index)
 
-.. code-block::
+.. code-block:: javascript
 
    {'ADD_REDUCER': put(state, key, get(state, key, value)
 
@@ -88,3 +92,26 @@ Voting
 
 Where humans are voting, a large number of options are unlikely to ever be considered reasonably.
 A good option is to randomly assign pairs for voting so a voter is presented with one or more pairs and simply asked which one they prefer. Perhaps allow 'equally good' (each scores 0.5) and equally bad (each scores 0).
+
+Root
+   Constitution
+   Membership
+   Rule
+
+Rule
+----
+
+TLA? - describes all possible state transitions
+
+new_member(member) - requires member signature =>
+change(Membership, patch, 'new_member') -> added to Membership vote queue (notifications)
+
+delegate(Membership, from_member, to_member) - requires from_member signature.
+=> to_member may use the vote on changes under Membership
+
+retract(Membership, member) - requires member signature
+=> member gets their vote back
+
+upvote(folder, patch, member, n=1) - requires member signature
+downvote(folder, patch, member, n=1)
+

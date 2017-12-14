@@ -1,5 +1,7 @@
-Policies
+Platform
 ========
+
+Not really a platform because its all about reforming democracy but given the goals, here are the higher level policies we want to embed (mutably) in our democracy.
 
 Respect! policies are concerned with the underlying principles and process of government.
 While these policies are aimed at achieving our goals and reflect the liberal principles that are necessitated by mutual respect, they are only suggestions and should be decided through an appropriate democratic process once it is in place.

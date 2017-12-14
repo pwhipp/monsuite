@@ -1,6 +1,12 @@
 Respect!
 ========
 
+.. note::
+
+   GVote
+
+   A distributed collection of files and folders that includes its entire history and manages changes to its content through changes to its content. Its a sorta git based vote moderated application. This can be a nomic like game, a club organization or a country's government.
+
 We believe that government should respect everyone's right to freedom and self determination in so far as
 it can be achieved without negating the equivalent rights in others.
 
