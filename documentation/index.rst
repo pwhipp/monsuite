@@ -21,6 +21,7 @@ We aim to deliver these improvements through the use and adoption of appropriate
    :maxdepth: 2
    :caption: Contents:
 
+   docs/activity/index
    docs/policies/index
    docs/research/index
    docs/contributing/index
