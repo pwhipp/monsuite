@@ -1,6 +1,12 @@
 Monsuite
 ========
 
+.. note::
+
+   GVote
+
+   A distributed collection of files and folders that includes its entire history and manages changes to its content through changes to its content. Its a sorta git based vote moderated application. This can be a nomic like game, a club organization or a country's government.
+
 We believe that government should respect everyone's right to freedom and self determination in so far as
 it can be achieved without negating the equivalent rights in others.
 
@@ -16,6 +22,8 @@ We aim to deliver these improvements through the use and adoption of appropriate
 #. A collectively maintained body of law and manifesto
 #. Effective use of experts and gathering of evidence in support of legal changes and improvements.
 #. Issue based voting
+
+Of course, to start this we'll start with a game/application that allows a user to create a distributed organization.
 
 .. toctree::
    :maxdepth: 2
