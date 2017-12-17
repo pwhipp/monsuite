@@ -13,9 +13,3 @@ Initial thoughts and musing. Hopefully destined to change and migrate into other
    cryptocurrency/index
    git
    hashgraph
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`

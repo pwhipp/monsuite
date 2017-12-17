@@ -30,9 +30,3 @@ See a `cheat sheet`_ or review the existing documentation source by clicking the
 .. _Git: https://try.github.io/levels/1/challenges/1
 .. _restructured text files: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
 .. _cheat sheet: http://openalea.gforge.inria.fr/doc/openalea/doc/_build/html/source/sphinx/rest_syntax.html
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
