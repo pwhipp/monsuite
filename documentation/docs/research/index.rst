@@ -101,10 +101,25 @@ Root
 Rule
 ----
 
-TLA? - describes all possible state transitions
+dRoot
+   .config
+      add: 90
+      delete: 90
+      change: 90
+   dNewMember
+      .config
+         add: 0
+         delete: 75
 
-new_member(member) - requires member signature =>
-change(Membership, patch, 'new_member') -> added to Membership vote queue (notifications)
+
+All actions must be signed.
+
+new_member(details)
+   details - {public_key: "xlkjlkj", fullname: "lklkj", nickname: "lklkj" email:...}
+
+
+
+accept_member(
 
 delegate(Membership, from_member, to_member) - requires from_member signature.
 => to_member may use the vote on changes under Membership
@@ -115,3 +130,6 @@ retract(Membership, member) - requires member signature
 upvote(folder, patch, member, n=1) - requires member signature
 downvote(folder, patch, member, n=1)
 
+As long as the order of these commands is consistent they can reconstruct the state of the data at any time.
+
+The data consists of objects
