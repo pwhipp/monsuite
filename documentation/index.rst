@@ -29,6 +29,7 @@ Of course, to start this we'll start with a game/application that allows a user 
    :maxdepth: 2
    :caption: Contents:
 
+   docs/activity/index
    docs/policies/index
    docs/research/index
    docs/contributing/index
