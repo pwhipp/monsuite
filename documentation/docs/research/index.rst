@@ -6,7 +6,6 @@ Research
    :caption: Contents:
 
    australian_political_parties
-   git
    flux
 
 

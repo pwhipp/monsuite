@@ -11,6 +11,7 @@ Initial thoughts and musing. Hopefully destined to change and migrate into other
    respect
    policies/index
    cryptocurrency/index
+   git
    hashgraph
 
 Indices and tables
