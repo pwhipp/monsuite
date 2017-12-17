@@ -1,4 +1,4 @@
-Monsuite
+Respect!
 ========
 
 We believe that government should respect everyone's right to freedom and self determination in so far as
@@ -16,18 +16,3 @@ We aim to deliver these improvements through the use and adoption of appropriate
 #. A collectively maintained body of law and manifesto
 #. Effective use of experts and gathering of evidence in support of legal changes and improvements.
 #. Issue based voting
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   docs/activity/index
-   docs/random/index
-   docs/research/index
-   docs/contributing/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
