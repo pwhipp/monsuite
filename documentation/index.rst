@@ -18,6 +18,7 @@ It is
    :caption: Contents:
 
    docs/why
+   docs/properties
    docs/activity/index
    docs/research/index
    docs/random/index

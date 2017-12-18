@@ -7,5 +7,7 @@ Research
 
    australian_political_parties
    flux
+   links
+   liquid_feedback
 
 

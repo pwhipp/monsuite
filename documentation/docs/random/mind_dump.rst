@@ -1,6 +1,35 @@
 Mind Dump
 =========
 
+Social Media Visibility modelling
+---------------------------------
+
+As the number of issues and information grows, mechanisms are essential to ensure that users can keep up with the information they feel is relevant to them, ideally without creating 'bubbles'
+
+Killing the polls
+-----------------
+
+An issue can be 'submitted' for the vote and then voted on over some 'reasonable, pre-agreed time'. During this time,
+the current state of voting can be made public so the number of votes are known together with the remaining votes.
+
+This is good for galvanizing people if it is still changeable but not so good if there is an early significant leader which might dissuade members from bothering to use their vote.
+
+Initial delegation
+------------------
+
+When new members are added, there may be an initial defined delegation. For example, 'new_member' topic might be delegated to 'the member with the smallest number of delegations who has the "secretary" role assigned to them.
+
+Roles are assigned by issues in the "roles" topic...
+
+Categorization and initial issue generation
+-------------------------------------------
+
+Issues must be categorized in order to allow scaling and reasonable delegation. An issues category may be initially specified by the creator of the issue
+but could be subsequently changed. How do we stop users from creating too many issues?
+
+We could delegate 'issue creation' votes?
+
+
 Decentralized Truth
 -------------------
 
@@ -37,6 +66,15 @@ Members may be assigned roles (giving them permission to do certain things)
 We probably do need a verifiable (interpreted?) language for the rule implementation???? Like tezos
 
 The 'ledger' becomes a sorta redux store plus its reducers or a sorta git where the commit could be local and the push to the POT is where things become 'agreed'
+
+Voting history should be visible for every member including their delegation chain (which covers how they may have ended up voting a certain way).
+
+Privacy concerns mean that no member can see another member's voting history - only their votes which caused the member to vote that way.
+
+If Alice delegates her vote to Bob, does Bob have a right to reject it? By default Bob will have to declare himself a 'politician' making his voting history public.
+A politician can 'resign' in which case votes revert to the delegee and their subsequent voting is private (unless publicised by them becoming a politician again).
+
+
 
 Using Git
 ---------
