@@ -1,7 +1,7 @@
 FLUX
 ====
 
-In this context FLUX is referring to the software underpinning `the flux party <https://voteflux.org/>`_.
+In this context FLUX is referring primarily to the process underpinning `The flux party <https://voteflux.org/>`_. It is the source of the :term:`IBDD` ideas in :term:`Monsuite`.
 
 This is of particular interest because it pays considerable attention to vote delegation which is crucial if any vote moderated collaboration is to function effectively.
 

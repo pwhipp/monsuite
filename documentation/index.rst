@@ -17,6 +17,7 @@ It is
    :maxdepth: 2
    :caption: Contents:
 
+   docs/why
    docs/activity/index
    docs/research/index
    docs/random/index

@@ -19,13 +19,15 @@ The following are proposed changes to this document. A proposal must be specific
 To Do
 -----
 
-* Tidy home page (drop note)
-* Add section on message protocol stuff
+* Investigate Loomio
+* Investigate Liquid Democracy
+* Investigate Helios
 
 In Progress
 -----------
 
-* Add a glossary
+* Add section on message protocol stuff
+
 
 Done
 ----
