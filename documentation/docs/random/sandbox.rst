@@ -7,10 +7,20 @@ It should be supported by some pre-populated demos that highlight its simplicity
 
 This should be a free online service.
 
-universe
+puniverse
+   monsuite
+      member
+         [id]
+            public_key
+
+
+
+puniverse
    hierarchical namespace of organisations
 
-organisation api
-   subscribe(identity) -> identified person wants to join organization
+organisation
+   An organization is a hierarchy of data. The implications of this data are outside the scope of the sandbox
 
+member
+   A member is an identity with a public key that
 
