@@ -121,6 +121,13 @@ Root
    Membership
    Rule
 
+
+We don't vote as such but approve or disapprove changes by signature. With changes implemented in a hierarchical namespace we can assign our signing rights (with some maximum expiry e.g. five years?) to any point in the hierarchy. Unless superseded lower in the hierarchy, the assignee can choose to sign proposed changes on our behalf.
+
+A change is a patch. If our hierarchy trees the content fully (like git) then any patch will change the sha all the way up the chain which will not scale effectively. Our patches must be able to apply lower in the tree exclusivelu and we need to be able to have 'partial' content when creating and considering patches.
+
+Do we need anonymity?
+
 Rule
 ----
 
