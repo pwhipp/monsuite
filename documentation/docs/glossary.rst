@@ -20,6 +20,9 @@ Glossary
    Monsuite
       A placeholder name for the app/suite.
 
+   Nomic
+      `giyf <https://en.wikipedia.org/wiki/Nomic>`_
+
    people
       A set of :term:`Person`
 
@@ -28,3 +31,6 @@ Glossary
 
    Representative Democracy
       The most widely used form of democracy where members vote periodically to elect a representative who will then vote on issues on their behalf.
+
+   TLA
+      `giyf <https://lamport.azurewebsites.net/tla/tla.html>`_

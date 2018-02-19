@@ -1,6 +1,23 @@
 Mind Dump
 =========
 
+So, we build 'etherium without the issues' by having a patchable (by liquid democratic vote) system where the rules
+are either the executable code or are used aka :term:`TLA` in an environment where violation of the rules is prohibited by 'ubercode' (itself governed by the rules but via a nomic style 'immutable' enforcement).
+
+All this needs to be done in a way that any :term:`person` can understand it.
+
+Issues with existing decentralized solutions (bitcoin, etherium etc.)
+---------------------------------------------------------------------
+
+Size
+   As the ledger grows, the amount of storage needed on each node increases. A real solution must allow nodes to store only partial information and retain their integrity. The storage needs to be a sort of cache where the possibility of information loss exists (very old stuff nobody needs any more) and where each node has only the information it needs plus some variable 'altruistic' storage contribution.
+
+Performance
+   The validation of changes to the ledger needs to be efficient such that the number of nodes can grow without impacting upon it.
+
+Immutability
+   All code contains errors and will fail to handle unanticipated changes in requirements over time. Any workable system must allow for changes to the code.
+
 Social Media Visibility modelling
 ---------------------------------
 

@@ -6,6 +6,7 @@ Research
    :caption: Contents:
 
    australian_political_parties
+   etherium
    flux
    links
    liquid_feedback
