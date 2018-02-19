@@ -18,6 +18,20 @@ Performance
 Immutability
    All code contains errors and will fail to handle unanticipated changes in requirements over time. Any workable system must allow for changes to the code.
 
+Modifying not voting
+--------------------
+
+We consider our data space as ~= a git repository.
+
+If Alice and Bob and Charles all have write permission to the tree and Alice and Bob generate a matching commit then
+there is a majority for the change so the commit is written into the history and becomes the new head (just a single
+branch for now).
+
+For Bob to give his 'vote' to Alice, we need the write permission to be implemented as a key authentication where
+Alice gives Bob her (current) key?
+
+https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
+
 Social Media Visibility modelling
 ---------------------------------
 

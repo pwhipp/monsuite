@@ -4,7 +4,7 @@ Monsuite
 It is
 -----
 
-* an application to facilitate corruption free organization by a collection of :term:`people`.
+* an application to facilitate corruption free democratic organization.
 * a distributed collection of data that provides access to its entire history and manages changes to its content through changes to its content.
 * a team's repository and management
 * a club's organisation and rules

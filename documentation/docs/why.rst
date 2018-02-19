@@ -1,11 +1,12 @@
 Why?
 ====
 
-Any organization of members should embrace the notion of democracy where each member has equal power if it is to thrive through the will of its members.
+Axiom
+   Any organization of members should embrace the notion of democracy where each member has equal power if it is to thrive through the will of its members.
 
 This can be implemented through :term:`Direct Democracy` [#DDProb]_ where each member gets to vote on every issue. However, not all members are interested in all issues and :term:`Direct Democracy` cannot scale because it quickly becomes impossible for all members to vote meaningfully on all issues.
 
-For this reason, most organisations (and governments) use :term:`Representative Democracy` with the aim of approximating :term:`Direct Democracy`. While :term:`Representative Democracy` scales well, there is ample documentation and evidence that it fails to adequately represent members' interests and is prone to corruption and exploitation.
+For this reason, most organisations (and governments) use :term:`Representative Democracy` with the aim of approximating :term:`Direct Democracy`. While :term:`Representative Democracy` scales well, there is `ample documentation and evidence <https://www.google.com.au/search?q=representative+democracy+failure&oq=representative+democracy+failure>`_ that it often fails to reflect members' interests and is prone to corruption and exploitation.
 
 Enter :term:`Liquid Democracy`, where members can vote directly or delegate and reclaim their voting power as they see fit. :term:`Liquid Democracy` is enabled by technology and may vary between :term:`Direct Democracy` (where every member is concerned with and votes on every issue) and :term:`Representative Democracy` where almost all members delegate their votes on all issues to a small number of "committee members" or "members of parliament" for substantial periods of time.
 
