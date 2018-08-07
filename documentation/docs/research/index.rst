@@ -7,6 +7,7 @@ Research
 
    australian_political_parties
    etherium
+   vyper
    flux
    links
    liquid_feedback

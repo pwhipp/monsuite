@@ -32,6 +32,15 @@ Alice gives Bob her (current) key?
 
 https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
 
+user
+
+keystore
+get_key(type, content) -> key
+put_value(type, content) -> key
+get_value(key, permits) -> type, content
+
+put_tree(place, content, permits)
+
 Social Media Visibility modelling
 ---------------------------------
 
@@ -105,7 +114,19 @@ Privacy concerns mean that no member can see another member's voting history - o
 If Alice delegates her vote to Bob, does Bob have a right to reject it? By default Bob will have to declare himself a 'politician' making his voting history public.
 A politician can 'resign' in which case votes revert to the delegee and their subsequent voting is private (unless publicised by them becoming a politician again).
 
+Versioning
+----------
 
+Follow linux x.y.z versioning
+
+z increment is bug fix. Full compatibility intended. Dependent apps should use * unless its essential to lock to n
+y enhanced but compatible. Full compatibility intended. Dependent apps should use * unless essential to lock to n and should consider upgrading to use the new features.
+x increment is upgrade. Not compatible. Dependent apps should not use * unless certain of capability.
+
+Where this is too simple, the app should probably be broken down into another app.
+
+Deprecating an app - The new major version increments as normal and the app is empty. The release notes will direct devs to the
+new apps covering the old app's functionality.
 
 Using Git
 ---------

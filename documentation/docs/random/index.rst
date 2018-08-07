@@ -11,7 +11,7 @@ Initial thoughts and musing. Hopefully destined to change and migrate into other
    respect
    policies/index
    cryptocurrency/index
-   git
+   gitsig
    hashgraph
    communication
    sandbox

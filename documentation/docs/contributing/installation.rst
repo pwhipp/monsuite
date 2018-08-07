@@ -1,7 +1,7 @@
 Installation
 ============
 
-This is for developers only.
+Installation is only required if you wish to work on your own local copy of the project. If you are only changing the documentation content, it is posible to work entirely through github.
 
 Install pip
 ...........
